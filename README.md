@@ -1,2 +1,2 @@
 # latihan-branch
-Ini branch 1
+Pull request pertama
